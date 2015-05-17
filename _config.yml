@@ -1,20 +1,20 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: Daniel Maina
+tagline: The intersection between my work and passions
+author: Daniel Maina
+email: fofungi@gmail.com
+description: "This blog is powered by jekyll and templated by yulijia ." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Business, Information, management,Security, Data, Life"
 baseurl: /sampleblog # the subpath of your blog.
 url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
+twitter_username: daniel_maina
+github_username:  danmyner
 disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is Daniel Maina. I am here to share knowledge and more importantly, to learn. I also believe that work can be fun. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
@@ -37,30 +37,16 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"  
       PostDate: "on "
-    cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
-      Copyright_Notice: "版权声明"
-      Recent_Posts: "近期文章"
-      Tags: "标签" 
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"   
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
-
 
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: Freshman21
+    - name: Daniel Maina
       href: http://yulijia.net/freshman21
-      title: Another Jekyll blog theme
+      title: Another Perspective to life and work
     - name: author's website
-      href: http://yulijia.net/
-      title: Lijia Yu's website
+      href: www.danielmaina.me
+      title: My website
 
 
 ### Build settings

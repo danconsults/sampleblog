@@ -1,6 +1,19 @@
 ---
-published: false
+published: true
+title: 2.0 version
+layout: post
+author: Yu 
+category: articles
+tags: [sample post]
+- version
+- new features
+- google analytics
+- google search
+- back to top
+- read more
+comments: true
 ---
+
 
 ## A New Post RANDOMLY TYPED OUT
 
@@ -18,7 +31,9 @@ _they are the most advantageous of all things_
 - iteADFDFm
 - iDSFtem
 - iteSDFDSFDSFESFDF
-		1. itemSDFDSF
+		
+
+        1. itemSDFDSF
 		2. itemDFSDF
 		3. iteSDFDSm
 

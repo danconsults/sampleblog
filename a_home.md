@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /Home/
+permalink: /
 ---
 
+sample text 

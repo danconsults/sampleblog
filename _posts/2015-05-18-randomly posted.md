@@ -1,10 +1,10 @@
 ---
 published: true
-title: 2.0 version
+title: randomly posted
 layout: post
 author: Yu 
-category: articles
-tags: [sample post]
+category: [articles, Howto]
+tags: 
 - version
 - new features
 - google analytics
@@ -37,6 +37,6 @@ _they are the most advantageous of all things_
 		2. itemDFSDF
 		3. iteSDFDSm
 
-m
+=====
 
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: How to set the config.yml file
 modified: 2014-12-19
 categories: [articles, Howto]
